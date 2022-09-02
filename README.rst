@@ -1,6 +1,8 @@
 ClickHouse: what is behind the fastest columnar database
 =========================================================
 
+This repository contains materials accompanying the talk "ClickHouse: what is behind the fastest columnar database".
+
 Additional resources
 --------------------
 
